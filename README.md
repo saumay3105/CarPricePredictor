@@ -1,5 +1,4 @@
-# AIProjects
-# 1. Car Price Predictor
+# Car Price Predictor
 
 ## Overview
 
